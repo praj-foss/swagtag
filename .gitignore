@@ -1,0 +1,15 @@
+# intellij related stuff
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle related stuff
+.gradletasknamecache
+.gradle/
+build/
+bin/
+out/
+
+# Extra files
+extras/
